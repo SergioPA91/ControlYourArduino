@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ImagenArdu.png</file>
+        <file>IconArdu.png</file>
+        <file>OFF.png</file>
+        <file>ON.png</file>
+        <file>refresh.png</file>
+        <file>backgroundClean.jpg</file>
+        <file>backgroundV3Tone.jpg</file>
+        <file>backgroundV3Int.jpg</file>
+        <file>backgroundV3Servo.jpg</file>
+        <file>backgroundV3Board.jpg</file>
+        <file>backgroundV3.jpg</file>
+    </qresource>
+</RCC>

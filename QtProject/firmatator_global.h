@@ -1,0 +1,12 @@
+#ifndef FIRMATATOR_GLOBAL_H
+#define FIRMATATOR_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(FIRMATATOR_LIBRARY)
+#  define FIRMATATORSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define FIRMATATORSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // FIRMATATOR_GLOBAL_H
