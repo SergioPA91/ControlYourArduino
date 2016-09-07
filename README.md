@@ -6,7 +6,7 @@ First of all, I have used part of code from this repository https://github.com/d
 
 This project is seeking to create a graphical user interface for Arduino UNO board using QT Software (https://www.qt.io/), in particular, Qt Creator.
 
-With this GUI, you can controller your Arduino UNO almost entirely. The main features are described below:
+With this program, you can controller your Arduino UNO almost entirely. The main features are described below:
 
 * Read/Write digital/analog inputs/outputs.
 * Configure the specified pin to behave as an input, output, PWM, servo etc.
@@ -17,7 +17,7 @@ With this GUI, you can controller your Arduino UNO almost entirely. The main fea
 * Capture on external interrupt (pin 2 and 3).
 * Configure I2C protocol. Send/Receive data from I2C devices. For example, you can send text to LCD.
 
-![Alt Text](https://github.com/SergioPA91/GuiArduino/blob/master/ControlYourArduino.gif)
+![Alt Text](https://github.com/SergioPA91/ControlYourArduino/blob/master/ControlYourArduino.gif)
 
 # How to install
 
