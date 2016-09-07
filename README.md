@@ -19,7 +19,7 @@ With this program, you can controller your Arduino UNO almost entirely. The main
 
 ![Alt Text](https://github.com/SergioPA91/ControlYourArduino/blob/master/ControlYourArduino.gif)
 
-# How to install
+## How to install
 
 Copy folder "FirmataQt" and "LiquidCrystal_I2C" to ... "C:\Program Files (x86)\Arduino\libraries" and enjoy it!
 
