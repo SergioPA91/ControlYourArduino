@@ -26,7 +26,9 @@ Copy folder "FirmataQt" and "LiquidCrystal_I2C" to ... "C:\Program Files (x86)\A
 ## License
 
 ControlYourArduino - Arduino program and Qt library implementation of the Firmata protocol.
-Copyright (C) 2016  Sergio Pérez Alhama
+
+Copyright (C) 2016     Sergio Pérez Alhama
+
 SPerezAlhama@gmail.com
 
 This program is free software; you can redistribute it and/or modify
@@ -40,5 +42,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the Lesser GNU General Public License
-along with this program;
+along with this program; If not, see <http://www.gnu.org/licenses/>.
 
