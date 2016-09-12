@@ -19,7 +19,26 @@ With this program, you can controller your Arduino UNO almost entirely. The main
 
 ![Alt Text](https://github.com/SergioPA91/ControlYourArduino/blob/master/ControlYourArduino.gif)
 
-## How to use on IDE Arduino.
+## How to use on IDE Arduino
 
 Copy folder "FirmataQt" and "LiquidCrystal_I2C" to ... "C:\Program Files (x86)\Arduino\libraries" and enjoy it!
+
+## License
+
+ControlYourArduino - Arduino program and Qt library implementation of the Firmata protocol.
+Copyright (C) 2016  Sergio Pérez Alhama
+SPerezAlhama@gmail.com
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or 
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the Lesser GNU General Public License
+along with this program;
 
